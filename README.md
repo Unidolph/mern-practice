@@ -52,3 +52,4 @@ The project is organized into two main parts: the backend and the frontend.
 - **`frontend/package.json`**: Configuration file for the frontend, listing dependencies and scripts.
 - **`frontend/tsconfig.json`**: TypeScript configuration file for the frontend.
 - **`frontend/README.md`**: Documentation for the frontend part of the project.
+- https://chatgpt.com/canvas/shared/68e35d0ad08081919fe19a499329552f
